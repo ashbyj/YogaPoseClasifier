@@ -1,1 +1,1 @@
-# YogaPoseIdentification
+# Yoga Pose Identification
