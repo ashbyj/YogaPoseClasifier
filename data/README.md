@@ -1,0 +1,1 @@
+The images this project used are available [here](https://drive.google.com/file/d/1JJAhobetjwelDVN8A9o6pcvNPmmAZjQ7/view?usp=drive_link) as a Google Drive download.  They should be extracted into data/images with the 5 pose classes as directories.  The 01 notebook contains a cell to clean up duplicate and badly formatted images if additional images are sourced.
